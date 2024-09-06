@@ -2,3 +2,5 @@ This is a Transformer model inspired by the paper "Attention is all you need", w
 
 This code uses Pytorch for the model architecture, and tensorboard to plot the graph and losses.
 
+This is the Google Colab link for the code. 
+https://colab.research.google.com/drive/1pLsNGUjU60R5YXPRjNUhBiGQn_OTYy-x?usp=sharing
