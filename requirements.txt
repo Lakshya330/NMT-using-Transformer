@@ -1,0 +1,7 @@
+torchtext==0.6.0
+spacy==3.7.6
+torch==2.4.0
+numpy==1.26.4
+torchinfo==1.8.0
+tqdm==4.66.5
+sacrebleu==2.4.3
