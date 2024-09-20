@@ -4,8 +4,9 @@ This code uses Pytorch for the model architecture, and tensorboard to plot the g
 
 Make sure to download spacy models "en_core_web_sm" and "de_core_news_sm", using the following commands:
 
-python -m spacy download en_core_web_sm --quiet
-python -m spacy download de_core_news_sm --quiet
+"python -m spacy download en_core_web_sm --quiet"
+
+"python -m spacy download de_core_news_sm --quiet"
 
 This is the Google Colab link for the code. 
 https://colab.research.google.com/drive/1pLsNGUjU60R5YXPRjNUhBiGQn_OTYy-x?usp=sharing
