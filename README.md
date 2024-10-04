@@ -8,5 +8,4 @@ Make sure to download spacy models "en_core_web_sm" and "de_core_news_sm", using
 
 "python -m spacy download de_core_news_sm --quiet"
 
-This is the Google Colab link for the code. 
-https://colab.research.google.com/drive/1pLsNGUjU60R5YXPRjNUhBiGQn_OTYy-x?usp=sharing
+Install all the dependencies first.
