@@ -2,7 +2,7 @@ import spacy
 from torchtext.datasets import Multi30k
 from torchtext.data import Field, BucketIterator
 
-batch_size = 32
+batch_size = 32 
 spacy_english = spacy.load("en_core_web_sm")
 spacy_german = spacy.load("de_core_news_sm")
 
